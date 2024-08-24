@@ -2,4 +2,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyeji28)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shinyeji28)]([shinyeji28_velog](https://velog.io/@shinyeji28/posts))
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgogo)](https://solved.ac/cgogo/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyeji28&show_icons=true&theme=shadow_red)
